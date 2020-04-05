@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "peDF/piN+OCqqpS1eYtf8rRxMrrcQ0sY/mQS2hyTAKphh/IuFyyNRm5w6JND4akWgQyvGdOOt84EbBlSFOEDlA==",
+  "success": true,
+  "projectFilePath": "/Users/ranjeet/api/WebApiClient/WebApiClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/ranjeet/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
